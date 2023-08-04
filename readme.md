@@ -53,3 +53,5 @@ node server.js
 ## Personalização do estilo
 
 O projeto possui um arquivo `style.css` na pasta raiz, onde você pode personalizar o estilo da página de acordo com suas preferências. Sinta-se à vontade para modificar as cores, fontes e layout para deixar a experiência mais agradável.
+
+![Captura de tela do projeto](imagemapp.PNG)
